@@ -13,8 +13,13 @@
 ##  Project Overview
 Proyek ini mengimplementasikan kerangka kerja analitik tingkat lanjut (*Advanced Analytics*) untuk menyelesaikan tantangan operasional dan finansial pada industri *Fast-Moving Consumer Goods* (FMCG) multinasional. Analisis ini dirancang secara *end-to-end* guna memitigasi risiko kekurangan stok (*stockout*), menekan modal tertahan (*capital tied-up*), serta mengoptimalkan efektivitas strategi promosi dan peramalan permintaan.
 
-# Dataset Full : ![Full File](https://drive.google.com/drive/folders/1iDuE2C49D0qxNQXoowkbtZrOitrgyOjd?usp=drive_link)
 ---
+
+###  Project Dataset & Resources
+👉 [Klik di sini untuk mengakses folder lengkap dataset di Google Drive](https://drive.google.com/drive/folders/1iDuE2C49D0qxNQXoowkbtZrOitrgyOjd?usp=drive_link)
+
+---
+
 ## Executive BI Dashboard Previews
 
 Proyek ini dilengkapi dengan 3 halaman utama *Interactive Executive Dashboard* yang dirancang untuk memonitor kesehatan rantai pasok dan efektivitas komersial secara *real-time*:
